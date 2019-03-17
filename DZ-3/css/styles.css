@@ -1,0 +1,93 @@
+body{
+    width: 900px;
+    margin: 0 auto;
+}
+.menu li {
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+    width: 24%;
+    margin-top: 75px;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-bottom: 100px;
+}
+.menu a{
+    text-decoration: none;
+    color: #626262
+}
+a:hover{
+    color: #036bf4
+}
+
+.lifestyle a{
+    text-transform: uppercase;
+    color: #79808d;
+    text-decoration: none;
+}
+
+.festival{
+    width: 420px;
+    display: inline-block;
+    padding-right: 28px;
+    margin-bottom: 130px;
+}
+.coffe{
+    width: 420px;
+    display: inline-block;
+    padding-left: 28px;
+    margin-bottom: 130px;
+}
+.photodiary a{
+    text-transform: uppercase;
+    color: #79808d;
+    text-decoration: none;
+}
+.dreams{
+    width: 420px;
+    display: inline-block;
+    padding-right: 28px;
+    margin-bottom: 130px;
+}
+.ALPS{
+    width: 420px;
+    display: inline-block;
+    padding-right: 28px;
+    margin-bottom: 130px;
+}
+.music_travel a{
+    text-transform: uppercase;
+    color: #79808d;
+    text-decoration: none;
+}
+.music{
+    width: 420px;
+    display: inline-block;
+    padding-right: 28px;
+    margin-bottom: 53px;
+}
+.travel{
+    width: 420px;
+    display: inline-block;
+    padding-left: 28px;
+    margin-bottom: 53px;
+}
+.button {
+    display: block;
+    width: 165px;
+    height: 60px;
+    border: 2px solid #626262;
+    text-align: center;
+    padding: 18px 10px 10px 10px;
+    box-sizing: border-box;
+    font-size: 20px;
+    text-decoration: none;
+    color: #626262;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+
+
+
+
